@@ -5,3 +5,9 @@ just study java
 ```
 XXX.jar
 ```
+
+##使用说明
+```
+JDK1.8版本
+IDEA2021版本
+```
